@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HW-6.1</string>
+    <string name="text">Text</string>
+    <string name="btnSG">Send go</string>
+    <string name="btnSB">Send back</string>
+    <string name="toastEmpty">Text field is empty</string>
+</resources>
